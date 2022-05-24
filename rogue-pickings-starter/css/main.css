@@ -176,6 +176,7 @@ footer span {
 		border-right: 1px solid #eee;
 		padding: 0 20px;
 	}
+}
 
 @media all and (min-width:1200px) {
 	/* Desktop styles here */
